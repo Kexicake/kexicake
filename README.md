@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vladandlexa
+- 👋 Hi, I’m @kexicake
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning C++,C# and Python 
 - 📫 How to reach me, you don't want it
