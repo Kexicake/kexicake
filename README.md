@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @kexicake
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning C++,C# and Python 
-- 📫 How to reach me, you don't want it
+https://github.com/Kexicake/kexicake/assets/44206352/92fe746d-3f39-4a00-9746-d0edcda6b14d
+
